@@ -1,0 +1,31 @@
+.tipo-letra{
+        font-family: 'Georgia';
+}
+.Tamaño-De-Img{
+        height: 10rem;
+        width: 10rem;
+}
+.tipo-letra-titulo-cards{
+        font-family: 'Impact';
+}
+.tipo-letra-texto-cards{
+        font-family: 'Great Vibes';
+}
+.color-de-button{
+        background-color: #90e0ef;
+}
+.primer-color-card{
+        background-color: #ffd60a;
+}
+.segundo-color-card{
+        background-color: #d00000;
+}
+.tercer-color-card{
+        background-color: #1982c4;
+}
+.cuarto-color-card{
+        background-color: #9c6644;
+}
+.tamañoCardsTodas{
+        height: 30rem;
+}
